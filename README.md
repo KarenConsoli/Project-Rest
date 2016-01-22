@@ -51,7 +51,7 @@ How To Install The Project
 
 3. Start Wamp Server
 
-4. Unzip the archive "<Consoli Karen - Front End Web Designer>.zip"
+4. Unzip the archive "Project Rest.zip"
 
 5. Copy "Web" Carpet to "C:\wamp\www"(Or in your localhost)
 
